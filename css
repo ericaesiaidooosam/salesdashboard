@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+ <title>
+ my html
+ </title>
+ <style>
+         
+          #DIV1{
+                    background: #4477CE; color: white; font-size: 25px; text-align: right;padding-left: 35px; padding-top: 20px; margin-left: 35px;
+          }
+#DIV2{background: #4477CE;color: white; font-size: 25px; text-align: right; padding-left: 35px; padding-top: 20px; margin-left: 35px;
+}
+#DIV3{background: #4477CE;color: white; font-size: 25px;text-align: right; padding-left: 35px; padding-top: 20px; margin-left: 35px;}
+
+
+      
+
+
+
+               
+          
+ </style>
+ </head>
+ <div class="menu">menu 1</div>
+ <div class="menu">menu 2</div>
+ <div class="menu">menu 3</div>
+ <div class="menu">menu 4</div>
+ <div class="menu">menu 5</div>
+ <div class="menu">menu 6</div>
+ <div class="menu">menu 7</div>
+ <div class="menu">menu 8</div>
+
+ 
+
+<body>
+
+ <div id="DIV1">
+          <h1>WINFRED</h1>
+
+          </div>
+
+  <div id="DIV2" >
+
+          <h2>FRANCIS</h2>  
+</div>
+
+ <div id="DIV3" style="background: #4477CE;color: white; font-size: 25px;text-align: right; padding-left: 35px; padding-top: 20px; margin-left: 35px;">
+            <h3>ERICA</h3>
+
+ </div>         
+
+
+          
+</body>
+</html>
